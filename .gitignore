@@ -1,0 +1,5 @@
+*.pyc
+*.zip
+*.tar*
+*.html
+cifar-10-batches-py
